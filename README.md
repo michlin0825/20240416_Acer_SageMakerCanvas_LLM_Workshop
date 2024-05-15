@@ -1,1 +1,1 @@
-# 20240416_SageMakerCanvas_LLM_Workshop
+# 20240416_Acer_SageMakerCanvas_LLM_Workshop
